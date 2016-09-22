@@ -33,7 +33,7 @@ Los servicios digitales básicos contemplan:
 
 ###### Registro
 
-Los ciudadanos, empresas y actores de la industria TI que deseen participar y comentar los documentos y el modelo deben registrarse aqui.
+Los ciudadanos, empresas y actores de la industria TI que deseen participar y comentar los documentos y el modelo deben registrarse [aqui][formulario].
 
 ###### Tiempo de la consulta
 
